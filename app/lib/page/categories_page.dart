@@ -1,5 +1,5 @@
-import 'package:app/categories_config.dart';
-import 'package:app/category_item.dart';
+import 'package:app/config.dart';
+import 'package:app/widgets/category_item.dart';
 import 'package:flutter/material.dart';
 
 
